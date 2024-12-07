@@ -1,4 +1,4 @@
-# ![Logo](link-to-logo) HRMS - Human Resource Management System  
+# HRMS - Human Resource Management System  
 
 Welcome to the **Human Resource Management System (HRMS)**! This project is built to simplify and streamline HR processes by managing employees, departments, salaries, titles, and department managers with a well-structured relational database.
 
@@ -42,10 +42,4 @@ The HRMS system includes **6 primary tables** with well-defined relationships:
 - **Employee ↔ Salary**: One-to-One  
 - **Employee ↔ Titles**: Many-to-Many  
 - **Department ↔ DeptManager**: One-to-Many  
-
-![Database Schema](link-to-database-schema-image)
-
----
-
-## 📂 Project Structure
 
